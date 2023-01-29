@@ -42,6 +42,10 @@ function checkAnswer() {
 
 }
 
+/**
+ * 
+ */
+
 function calculateCorrectAnswer() {
 
 }
